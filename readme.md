@@ -31,7 +31,7 @@ Here you can see the screenshot
 ## Project setup
 
 ```bash
-git clone https://github.com/mdrathik/vuejs-vuex-crud
+git clone https://github.com/BenticVasanth/CRUD-Using-Vue-Vuex-.git
 cd vuejs-vuex-crud
 ```
 
